@@ -1,5 +1,7 @@
 # Building ContentAI Pro: A Serverless AI Content Transformation Platform on AWS
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5ff5a024-184c-454e-83a1-8da461986f36" />
+
 ## 🚀 Introduction
 
 In today's digital landscape, content creators and businesses face the challenge of producing diverse, engaging content across multiple platforms and formats. **ContentAI Pro** is a comprehensive AI-powered content transformation platform built on AWS serverless architecture that addresses this challenge by providing five specialized tools for content manipulation and optimization.
