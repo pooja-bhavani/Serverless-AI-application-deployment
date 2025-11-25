@@ -1,7 +1,6 @@
 # Building ContentAI Pro: A Serverless AI Content Transformation Platform on AWS
 
-<img width="2040" height="927" alt="diagram-export-25-11-2025-12_58_00" src="https://github.com/user-attachments/assets/4854feac-cb4c-4688-a164-9c09b9fa7841" />
-
+<img width="2029" height="801" alt="image" src="https://github.com/user-attachments/assets/fd442e09-579e-4907-99e3-519ce577ebe6" />
 
 ## 🚀 Introduction
 
